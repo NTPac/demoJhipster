@@ -1,0 +1,32 @@
+{
+  "fields": [
+    {
+      "fieldName": "name",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "catory",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "description",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "calo",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "price",
+      "fieldType": "String"
+    }
+  ],
+  "relationships": [],
+  "service": "serviceClass",
+  "dto": "no",
+  "jpaMetamodelFiltering": true,
+  "readOnly": false,
+  "pagination": "infinite-scroll",
+  "name": "Food",
+  "changelogDate": "20210523155349"
+}
